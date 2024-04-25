@@ -45,7 +45,8 @@
       <HintPath>..\..\MelonLoader\Il2CppAssemblies\Il2Cppmscorlib.dll</HintPath>
     </Reference>
     <Reference Include="MelonLoader, Version=0.6.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\LavaGang.MelonLoader.0.6.1\lib\net35\MelonLoader.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>References\MelonLoader.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="Unity.Localization, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
